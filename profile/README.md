@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="FDF Vector" src="https://github.com/user-attachments/assets/7d6b4a79-5dcb-4670-83cf-31b0ee65b6cf" />
+<img width="300" height="300" alt="FDF Vector" src="https://github.com/user-attachments/assets/7d6b4a79-5dcb-4670-83cf-31b0ee65b6cf" />
 
 # The Functional Desktop Foundation of Philadelphia, Pennsylvania
 
